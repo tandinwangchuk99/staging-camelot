@@ -377,7 +377,7 @@ Author URL: http://w3layouts.com
     <section class="w3l-copyright" style="background-color: #313331">
         <div class="container">
             <div class="row bottom-copies">
-                <p class="col-lg-8 copy-footer-29">© 2021 Camelot System Partners Ltd. All rights reserved. <a href="privacy.html">Pricacy Policy</a></p>
+                <p style = "color:white" >© 2021 Camelot System Partners Ltd. All rights reserved. <a href="privacy.html">Pricacy Policy</a></p>
                 <!-- //footer -->
                 <!-- <div class="col-lg-4 text-right">
                     <div class="main-social-footer-29">
