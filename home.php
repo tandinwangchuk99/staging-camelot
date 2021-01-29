@@ -41,7 +41,7 @@ Author URL: http://w3layouts.com
         <div class="container-fluid">
             <nav class="navbar navbar-expand-lg stroke">
                 <h1>
-                    <a class="navbar-brand d-flex align-items-center" href="index.html">
+                    <a class="navbar-brand d-flex align-items-center" href="home.php">
                         <span class="icon-camelot_font"></span></a>
                 </h1>
                 <!-- if logo is image enable this
@@ -374,7 +374,7 @@ Author URL: http://w3layouts.com
 
    
     <!-- copyright -->
-    <section class="w3l-copyright">
+    <section class="w3l-copyright" style="background-color: #3b6978">
         <div class="container">
             <div class="row bottom-copies">
                 <p class="col-lg-8 copy-footer-29">© 2021 Camelot System Partners Ltd. All rights reserved. <a href="privacy.html">Pricacy Policy</a></p>
