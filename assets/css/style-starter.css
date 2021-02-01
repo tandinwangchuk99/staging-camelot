@@ -14122,7 +14122,7 @@ a.text-dark:focus {
 
 [data-theme="dark"] {
   --theme-color: #e40000;
-  --primary-color: #004391;
+  --primary-color: #000080;
   --primary-light: #ffc945;
   --secondary-color: #fd614a;
   --primary-dark: #00070c;
