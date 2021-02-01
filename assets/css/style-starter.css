@@ -14099,7 +14099,7 @@ a.text-dark:focus {
 
 :root {
   --theme-color: #e40000;
-  --primary-color: #004391;
+  --primary-color: #000080;
   --primary-light: #fcf1e7;
   --primary-dark: #ffc945;
   --secondary-color: #fd614a;
