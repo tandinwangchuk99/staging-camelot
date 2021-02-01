@@ -165,26 +165,11 @@ Author URL: http://w3layouts.com
     </section>
     <!-- //banner section -->
 
-
-    <section class="w3l-feature-8">
+ <section class="w3l-feature-8">
         <div class="features-main py-5">
             <div class="container py-md-5 py-4">
                 <div class="row features text-center py-xl-2">
-                    <div class="col-lg-3 col-sm-6 feature-1">
-                        <div class="feature-body">
-                            <div class="feature-images pb-sm-3 pb-1">
-                                <img src="assets/images/s3.png" alt="" class="img-fluid">
-                            </div>
-                            <div class="feature-info mt-4">
-                                <a href="#">
-                                    <h3 class="feature-titel">サービス</h3>
-                                </a>
-                                <p class="feature-text column">システム開発・運用<br>システム部門代行（担当役員・部門長・社員）</p>
-                                <a href="services.html" class="btn btn-style btn-style-normal mt-4">詳しく見る</a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-3 col-sm-6 feature-2 mt-sm-0 mt-5">
+                    <div class="col-lg-4 col-sm-6 feature-2 mt-sm-0 mt-5">
                         <div class="feature-body">
                             <div class="feature-images pb-sm-3 pb-1">
                                 <img src="assets/images/icon2.png" alt="" class="img-fluid">
@@ -198,7 +183,7 @@ Author URL: http://w3layouts.com
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-3 col-sm-6 feature-3 mt-lg-0 mt-5">
+                    <div class="col-lg-4 col-sm-6 feature-3 mt-lg-0 mt-5">
                         <div class="feature-body">
                             <div class="feature-images pb-sm-3 pb-1">
                                 <img src="assets/images/icon3.png" alt="" class="img-fluid">
@@ -212,7 +197,7 @@ Author URL: http://w3layouts.com
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-3 col-sm-6 feature-3 mt-lg-0 mt-5">
+                    <div class="col-lg-4 col-sm-6 feature-3 mt-lg-0 mt-5">
                         <div class="feature-body">
                             <div class="feature-images pb-sm-3 pb-1">
                                 <img src="assets/images/icon4.png" alt="" class="img-fluid">
@@ -247,66 +232,6 @@ Author URL: http://w3layouts.com
         </div>
     </section>
     <!-- //bg with text section -->
-
-    <!-- services section -->
-    <section class="w3l-content-11-main position-relative">
-        <div class="content-design-11 py-5">
-            <div class="container py-md-5 py-4">
-                <h3 class="title-style text-center mb-md-5 mb-4">サービス</h3>
-                <div class="content-sec-11">
-                    <div class="row">
-                        <div class="col-lg-6">
-                            <div class="services-single d-flex p-sm-5 p-4">
-                                <div class="service-icon mr-sm-4 mr-3">
-                                    <img src="assets/images/s3.png" alt="" class="img-fluid">
-                                </div>
-                                <div class="services-content">
-                                    <h5><a href="services.html">システム開発・運用<br />その他</a></h5>
-                                    <p>オーソドックスなウォーターフォールからエンタープライズアジャイルまで、対応いたします。<br /> 
-                                      
-                                    </p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-lg-6 wrap">
-                            <div class="services-single d-flex p-sm-5 p-4">
-                                <div class="service-icon mr-sm-4 mr-3">
-                                    <img src="assets/images/s1.png" alt="" class="img-fluid">
-                                </div>
-                                <div class="services-content">
-                                    <h5><a href="services.html">システム部門代行<br/>
-（担当役員・部門長・社員）</a></h5>
-                                    <p>なかなか適任者の見つからないシステム部門の社員代行の対応をいたします。</p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="row">
-                        <div class="col-lg-6 wrap">
-                            <div class="services-single d-flex p-sm-5 p-4 mb-lg-0">
-                                <div class="service-icon mr-sm-4 mr-3">
-                                    <img src="assets/images/s2.png" alt="" class="img-fluid">
-                                </div>
-                                <div class="services-content">
-                                    <h5><a href="services.html">コーチング・アドバイザリ</a></h5>
-                                    <p>システムに関する業務改善および効率化の推進　　　　　　</p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-lg-6 wrap">
-                            
-                        </div>
-                    </div>
-                    <div class="mt-5 text-center">
-                        <a class="btn btn-style" href="services.html">詳しく見る</a>
-                    </div>
-                </div>
-            </div>
-            
-        </div>
-    </section>
-    <!-- //services section -->
-
     
 
     <!-- testimonials -->
@@ -369,10 +294,6 @@ Author URL: http://w3layouts.com
             </div>
         </div>
     </section>
-    <!-- //testimonials -->
-
-
-   
     <!-- copyright -->
     <section class="w3l-copyright" style="background-color: #313331" class="w3l-copyright">
         <div class="container">
