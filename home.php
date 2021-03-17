@@ -207,7 +207,7 @@ Author URL: http://w3layouts.com
                                     <h3 class="feature-titel">ピックアップ</h3>
                                 </a>
                                 <p class="feature-text column">これまで培ってきた私たちの経験や実績をもとに、数々の素晴らしいお客様にご愛顧いただいております。</p>
-                                 <a href="contact.html" class="btn btn-style mt-5">依頼する</a>
+                                 <a href="contact.html" class="btn btn-style btn-style-normal mt-4">依頼する</a>
                             </div>
                         </div>
                     </div>
