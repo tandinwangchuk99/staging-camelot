@@ -193,7 +193,7 @@ Author URL: http://w3layouts.com
                                     <h3 class="feature-titel">企業理念</h3>
                                 </a>
                                 <p class="feature-text column">偉業を達成するには、揺るがぬ信念が必要です。それが、我々が成果を出せる理由です。</p>
-                                 <a href="about.html#team" class="btn btn-style btn-style-normal mt-4">詳しく見る</a>
+                                 <a href="about.html#missionVission" class="btn btn-style btn-style-normal mt-4">詳しく見る</a>
                             </div>
                         </div>
                     </div>
@@ -207,7 +207,7 @@ Author URL: http://w3layouts.com
                                     <h3 class="feature-titel">ピックアップ</h3>
                                 </a>
                                 <p class="feature-text column">これまで培ってきた私たちの経験や実績をもとに、数々の素晴らしいお客様にご愛顧いただいております。</p>
-                                 <a href="services.html#cases" class="btn btn-style btn-style-normal mt-4">依頼する</a>
+                                 <a href="services.html#cases" class="btn btn-style btn-style-normal mt-4">詳しく見る</a>
                             </div>
                         </div>
                     </div>
