@@ -1,13 +1,13 @@
 <?php 
 
-if(!isset($_SERVER [ 'PHP_AUTH_USER' ])){
-  header ("WWW-Authenticate: Basic realm=\"Secured\"");
-  header ("HTTP/1.0 401 Unauthprized");
-  echo "enter credential";
-  exit;
-}
-else{
-  if(($_SERVER['PHP_AUTH_USER']) == 'camelot' && ($_SERVER['PHP_AUTH_PW'])== 'camelotadmin'){
+// if(!isset($_SERVER [ 'PHP_AUTH_USER' ])){
+//   header ("WWW-Authenticate: Basic realm=\"Secured\"");
+//   header ("HTTP/1.0 401 Unauthprized");
+//   echo "enter credential";
+//   exit;
+// }
+// else{
+//   if(($_SERVER['PHP_AUTH_USER']) == 'camelot' && ($_SERVER['PHP_AUTH_PW'])== 'camelotadmin'){
     
     ?>
     <!--
@@ -247,7 +247,7 @@ Author URL: http://w3layouts.com
                                   <div class="testi-des">
                                         
                                         <div class="peopl align-self">
-                                            <h3>Solutions</h3>
+                                            <h3> ソリューション</h3>
                                            
                                         </div>
                                     </div>
@@ -467,9 +467,9 @@ Author URL: http://w3layouts.com
 
 </html>
     <?php
-  }
-    else{
-        echo "You are not authorized";
-    }
-}
+//   }
+//     else{
+//         echo "You are not authorized";
+//     }
+// }
 ?>
