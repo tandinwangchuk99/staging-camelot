@@ -189,7 +189,7 @@ Author URL: http://w3layouts.com
                                 <img src="assets/images/icon3.png" alt="" class="img-fluid">
                             </div>
                             <div class="feature-info mt-4">
-                                <a href="#">
+                                <a href="about.html#missionVission">
                                     <h3 class="feature-titel">企業理念</h3>
                                 </a>
                                 <p class="feature-text column">偉業を達成するには、揺るがぬ信念が必要です。それが、我々が成果を出せる理由です。</p>
