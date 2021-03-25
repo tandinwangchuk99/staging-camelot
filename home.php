@@ -10,11 +10,7 @@ else{
   if(($_SERVER['PHP_AUTH_USER']) == 'camelot' && ($_SERVER['PHP_AUTH_PW'])== 'camelotadmin'){
     
     ?>
-    <!--
-Author: W3layouts
-Author URL: http://w3layouts.com
--->
-<!doctype html>
+  <!doctype html>
 <html lang="en">
 
 <head>
@@ -179,7 +175,7 @@ Author URL: http://w3layouts.com
                                     <h3 class="feature-titel">チームについて</h3>
                                 </a>
                                 <p class="feature-text column">我々はエキスパート集団である以上に、情熱とスキルを持って力を発揮する、同じ志を持つ同士といえます。</p>
-                               <a href="about.html#team" class="btn btn-style btn-style-normal mt-4">詳しく見る</a>
+                               <a href="team.html" class="btn btn-style btn-style-normal mt-4">詳しく見る</a>
                             </div>
                         </div>
                     </div>
@@ -189,7 +185,7 @@ Author URL: http://w3layouts.com
                                 <img src="assets/images/icon3.png" alt="" class="img-fluid">
                             </div>
                             <div class="feature-info mt-4">
-                                <a href="about.html#missionVission">
+                                <a href="mission.html">
                                     <h3 class="feature-titel">企業理念</h3>
                                 </a>
                                 <p class="feature-text column">偉業を達成するには、揺るがぬ信念が必要です。それが、我々が成果を出せる理由です。</p>
@@ -297,18 +293,14 @@ Author URL: http://w3layouts.com
     <!-- copyright -->
     <section class="w3l-copyright" style="background-color: #313331" class="w3l-copyright">
         <div class="container">
-            <div class="row bottom-copies">
-                <p style = "color:white" >© 2021 Camelot System Partners Ltd. All rights reserved. <a href="privacy.html" style = "color: pink">Pricacy Policy</a></p>
-                <!-- //footer -->
-                <!-- <div class="col-lg-4 text-right">
-                    <div class="main-social-footer-29">
-                        <a href="#facebook" class="facebook"><span class="fa fa-facebook"></span></a>
-                        <a href="#twitter" class="twitter"><span class="fa fa-twitter"></span></a>
-                        <a href="#google"><span class="fa fa-google-plus" aria-hidden="true"></span></a>
-                        <a href="#instagram" class="instagram"><span class="fa fa-instagram"></span></a>
-                        <a href="#linkedin" class="linkedin"><span class="fa fa-linkedin"></span></a>
-                    </div>
-                </div> -->
+            <div>
+               <center>
+                    <p style = "color:white" >
+                    <a href="credits.html" style="color:var(--secondary-color)">概要   </a>
+                    <a href="privacy.html" style="margin-left: 1rem; color:var(--secondary-color)">プライバシーポリシー     </a>
+                    <a href="cookies.html" style="margin-left: 1rem; color:var(--secondary-color)">Cookie 設定</a>
+                </p>
+               </center>
             </div>
         </div>
     </section>
@@ -466,7 +458,6 @@ Author URL: http://w3layouts.com
 </body>
 
 </html>
-    <?php
   }
     else{
         echo "You are not authorized";
